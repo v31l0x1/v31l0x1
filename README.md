@@ -1,4 +1,4 @@
-Hi, I'm @v31l0x1
+Hey I'm v31l0x1.
 I am a Red Teamer and interested in Offensive Security, Malware Development
 
 <h3 align="left">Connect with me:</h3>
