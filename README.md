@@ -1,6 +1,6 @@
 Hey I'm v31l0x1.
 
-I am currently a Malware Developer and Red Teamer specialising in Offensive Security, custom tooling, evasion techniques, and adversary simulation.
+I am a Red Teamer and Malware Developer specialising in Offensive Security, custom tooling, evasion techniques, and adversary simulation.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
